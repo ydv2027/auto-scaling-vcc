@@ -105,5 +105,5 @@ I confirm that this submission is my original work and has not been copied from 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Author
-# SWatantra Yadav 
-# G24AI1065
+Swatantra Yadav 
+G24AI1065
